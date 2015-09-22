@@ -11,5 +11,6 @@ You want a list?
 * Another list 
 * This is a list.
 
-1.This is a number list.
-2. This is a number list. 
+
+1. This is a number list.
+2. This is a number list.
